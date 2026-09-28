@@ -1,0 +1,16 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "5.8",
+	"Category": "Games",
+	"Description": "UE5.8 Android-compatible primitive minion scene with no imported assets.",
+	"Modules": [
+		{
+			"Name": "MinionMobile",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"TargetPlatforms": [
+		"Android"
+	]
+}
